@@ -1,0 +1,95 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.card{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+/* nav section start */
+
+.navbar {
+    background-color: white;
+    padding: 10px 50px;
+    box-shadow: 2px 1px 5px 1px black;
+}
+#navbarSupportedContent ul li a {
+    margin-left: 25px;
+    color: black;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 15px;
+    transition: all ease 2s;
+}
+#navbarSupportedContent ul li a:hover {
+    color: red;
+    background-color: blue;
+    border-radius: 15px 5px 15px 5px;
+    transition: all ease 1s;
+}
+
+/* nav section end */
+
+
+/* footer section start */
+
+.footer a:hover {
+    color: red;
+    transition: all ease 1s;
+}
+
+/* footer section end */
+
+
+/* slider section start */
+
+#carouselExampleIndicators img {
+    height: 500px;
+}
+
+
+/* about section start */
+
+.about button {
+    transition: all ease 1s;
+}
+
+
+/* offer section start */
+
+.offer .card {
+    margin: 3px;
+}
+.offer button {
+    transition: all ease 1s;
+}
+
+/* product section start */
+
+
+.product .card {
+    margin: 3px;
+}
+
+
+
+/* contact section start */
+
+
+
+
+
+
+
+
+
+
+
+
+
